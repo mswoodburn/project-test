@@ -19,7 +19,7 @@ Need to incorporate classification schemes for non-biological collections.
 | **Structure** | Hierarchy |
 | **Range** | no |
 | **Cardinality** | n:n |
-| **Linked to** | CollectionDescription |
+| **Relationships** | Classification (0 to many) <-> CollectionDescription (1 to many) |
 | **Potential standards/vocabularies etc** | |
 | **Notes** | Hierarchy can be flattened as per DwC - or could just be represented by a scientific name to be resolved by external services. Need to incorporate classification schemes for non-biological collections. |
 
