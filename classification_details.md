@@ -1,38 +1,33 @@
-**Dimension:** Classification  
-======
-**Type:** Dimension  
-**Description:**  
-**Structure:**	Hierarchy  
-**Range:**	no  
-**Cardinality:**	n:n  
-**Linked to:**	CollectionDescription  
-**Potential standards/vocabularies etc:**  
-
-**Notes:** Hierarchy can be flattened as per DwC - or could just be represented by a scientific name to be resolved by external services.
-Need to incorporate classification schemes for non-biological collections.	
-
-## class Classification
+# Classification (dimension)  
 
 | <!-- --> | <!-- --> |
 | ---- | ---- |
-| **Description** |  |
-| **Structure** | Hierarchy |
+| **Definition** |  |
+| **Hierarchy** | yes |
 | **Range** | no |
-| **Cardinality** | n:n |
-| **Relationships** | Classification (0 to many) <-> CollectionDescription (1 to many) |
-| **Potential standards/vocabularies etc** | |
+| **Potential standards/vocabularies/ontologies to adopt** | |
 | **Notes** | Hierarchy can be flattened as per DwC - or could just be represented by a scientific name to be resolved by external services. Need to incorporate classification schemes for non-biological collections. |
 
-### property taxonID
+## Classification (class)
 
 | <!-- --> | <!-- --> |
 | ---- | ---- |
+| **Definition** |  |
+| **Relationships** | Classification (0 to many) <-> CollectionDescription (1 to many) |
+| **Potential standards/vocabularies/ontologies to adopt** | |
+| **Notes** | 
+
+### taxonID (property)
+
+| <!-- --> | <!-- --> |
+| ---- | ---- |
+| **Definition** |  |
 | **Property of** | Classification |
 | **Existing property** | dwc:taxonID |
 | **Existing class** | dwc:Taxon |
 | **Existing property identifier** | http://rs.tdwg.org/dwc/terms/#taxonID |
 | **Format** |  |
 | **Constraints** |  |
-| **Text definition** |  |
 | **Examples** |  |
+| **Notes** |  |
  
