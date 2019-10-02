@@ -10,7 +10,7 @@
 
 <dl>
     <dt style="font-weight:bold"><a href="https://github.com/mswoodburn/project-test/blob/master/classification_details.md#classification-class"> Classification</a></dt>
-    <dd><a href="https://github.com/mswoodburn/project-test/blob/master/classification_details.md#taxonid-property">taxonID</a><br>
+    <dd><a href="https://github.com/mswoodburn/project-test/blob/master/classification_details.md#taxonid-property">taxonID</a>&nbsp&nbsp&nbsp
     <a href="https://github.com/mswoodburn/project-test/blob/master/classification_details.md#scientificnameid-property">scientificNameID</a></dd>
 </dl>
 
