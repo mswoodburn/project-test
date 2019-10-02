@@ -1,3 +1,10 @@
+
+<style>
+table {
+  width: 100%;
+}
+</style>
+
 # Classification (dimension)  
 
 | <!-- --> | <!-- --> |
