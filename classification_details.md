@@ -1,4 +1,5 @@
 **Name:** Classification  
+======
 **Type:** Dimension  
 **Description:**  
 **Structure:**	Hierarchy  
