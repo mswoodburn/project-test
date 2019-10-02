@@ -33,15 +33,3 @@
 | **Examples** |  |
 | **Notes** |  |
 
-<table width=100%>
-    <tr><td span=2><h3>taxonID (property)</h3></td></tr>
-    <tr><td style="font-weight: bold">Definition</td><td></td></tr>
-    <tr><td style="font-weight: bold">Property of</td><td>Classification</td></tr>
-    <tr><td style="font-weight: bold">Existing property</td><td>dwc:taxonID</td></tr>
-    <tr><td style="font-weight: bold">Existing class</td><td>dwc:Taxon</td></tr>
-    <tr><td style="font-weight: bold">Existing property identifier</td><td>http://rs.tdwg.org/dwc/terms/#taxonID</td></tr>
-    <tr><td style="font-weight: bold">Format</td><td></td></tr>
-    <tr><td style="font-weight: bold">Constraints</td><td></td></tr>
-    <tr><td style="font-weight: bold">Examples</td><td></td></tr>
-    <tr><td style="font-weight: bold">Notes</td><td></td></tr>
-</table>
