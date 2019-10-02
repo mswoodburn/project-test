@@ -11,7 +11,7 @@
 **Notes:** Hierarchy can be flattened as per DwC - or could just be represented by a scientific name to be resolved by external services.
 Need to incorporate classification schemes for non-biological collections.	
 
-## Classification (class)
+## class Classification (class)
 
 | <!-- --> | <!-- --> |
 | ---- | ---- |
@@ -24,7 +24,7 @@ Need to incorporate classification schemes for non-biological collections.
 | **Notes** | Hierarchy can be flattened as per DwC - or could just be represented by a scientific name to be resolved by external services. Need to incorporate classification schemes for non-biological collections. |
 | <!-- --> | <!-- --> |
 
-## taxonID (property)
+### property taxonID
 
 | <!-- --> | <!-- --> |
 | ---- | ---- |
