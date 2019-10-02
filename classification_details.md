@@ -1,4 +1,4 @@
-**Name:** Classification  
+**Dimension:** Classification  
 ======
 **Type:** Dimension  
 **Description:**  
