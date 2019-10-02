@@ -29,9 +29,9 @@ Need to incorporate classification schemes for non-biological collections.
 | <!-- --> | <!-- --> |
 | ---- | ---- |
 | **Property of** | Classification |
-| **Existing term** | dwc:taxonID |
-| **Existing term type** | Taxon |
-| **Existing identifier** | http://rs.tdwg.org/dwc/terms/#taxonID |
+| **Existing property** | dwc:taxonID |
+| **Existing class** | dwc:Taxon |
+| **Existing property identifier** | http://rs.tdwg.org/dwc/terms/#taxonID |
 | **Format** |  |
 | **Constraints** |  |
 | **Text definition** |  |
