@@ -29,12 +29,12 @@ Need to incorporate classification schemes for non-biological collections.
 | <!-- --> | <!-- --> |
 | ---- | ---- |
 | **Property of** | Classification |
-| **Existing Term** | dwc:taxonID |
-| **Existing Term Type** | Taxon |
-| **Link to Existing Definition** | http://rs.tdwg.org/dwc/terms/#taxonID |
+| **Existing term** | dwc:taxonID |
+| **Existing term type** | Taxon |
+| **Existing identifier** | http://rs.tdwg.org/dwc/terms/#taxonID |
 | **Format** |  |
 | **Constraints** |  |
-| **Text Definition** |  |
+| **Text definition** |  |
 | **Examples** |  |
 | <!-- --> | <!-- --> |
  
